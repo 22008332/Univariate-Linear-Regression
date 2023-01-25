@@ -50,6 +50,9 @@ plt.show()
 
 ```
 ## Output
+Developed by:Preethi.A.A
+
+Ref.no:22008332
 ![](./Univariae%20linear%20regression.png)
 
 ## Result
